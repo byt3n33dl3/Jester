@@ -1,2 +1,2 @@
 # FuN-roulette
-"Lets play with your luck"
+Simple game, Dont change the (else:) into something danger!
