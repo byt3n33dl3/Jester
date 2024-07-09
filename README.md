@@ -10,7 +10,6 @@
 J E S T E R R O U L E T T E
 ============================
 
-The worm project if you fail the roulette spin!
-made with love by: pxcs - sasser
+The **worm** project, ( If ) you fail the **roulette!**
 
 educational purposes only!
