@@ -12,4 +12,6 @@ J E S T E R R O U L E T T E
 
 The **worm** project, ( If ) you fail the **roulette!**
 
-educational purposes only!
+educational purposes only! 
+
+makanya jangan judi!
